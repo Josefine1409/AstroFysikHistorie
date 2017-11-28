@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "da-dk"
+title = "!!!"
+theme = "beautifulhugo"
