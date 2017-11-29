@@ -1,5 +1,5 @@
 baseURL = "https://josefine1409.github.io/AstroFysiskHistorie"
 languageCode = "da-dk"
 title = "!!!"
-theme = "beautifulhugo"
+theme = "hugo-agency-theme"
 publishDir = "docs"
