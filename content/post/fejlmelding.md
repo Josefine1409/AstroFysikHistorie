@@ -1,5 +1,5 @@
 ---
-title: "404"
+title: "Fejlmelding"
 date: 2017-11-28T20:44:49+01:00
 draft: false
 ---

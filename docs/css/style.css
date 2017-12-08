@@ -151,3 +151,14 @@ nav ul li a:hover {
   font-weight: normal;
   text-shadow: 2px 2px 8px #FF0000;
 }
+
+.timeline__content__subtitle {
+  font-weight: normal;
+  font-size: 20px;
+  margin: -10px 0 0 0;
+  transition: .4s;
+  padding: 0 10px;
+  box-sizing: border-box;
+  font-family: "Pathway Gothic One", sans-serif;
+  color: #fff;
+}

@@ -9,8 +9,8 @@
 }
 .timeline__content-title {
   font-weight: normal;
-  font-size: 66px;
-  margin: -10px 0 0 0;
+  font-size: 40px;
+  margin: 0 0 0 0;
   transition: .4s;
   padding: 0 10px;
   box-sizing: border-box;
