@@ -1,5 +1,6 @@
-baseURL = "https://josefine1409.github.io/AstroFysiskHistorie"
+# Site settings
+baseurl = "https://josefine1409.github.io/AstroFysiskHistorie"
 languageCode = "da-dk"
 title = "Formidlingsprojekt"
-theme = "beautifulhugo"
+theme = "Astro"
 publishDir = "docs"
