@@ -30,5 +30,15 @@
 $$ f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi $$</description>
     </item>
     
+    <item>
+      <title>Test2</title>
+      <link>https://josefine1409.github.io/AstroFysiskHistorie/post/test2/</link>
+      <pubDate>Tue, 28 Nov 2017 20:44:49 +0100</pubDate>
+      
+      <guid>https://josefine1409.github.io/AstroFysiskHistorie/post/test2/</guid>
+      <description>Hej alle sammen, dette er en meget meget flot test. Dette er noget videnskabelig tekst
+$$ f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi $$</description>
+    </item>
+    
   </channel>
 </rss>
