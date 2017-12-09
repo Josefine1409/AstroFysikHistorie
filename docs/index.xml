@@ -6,38 +6,120 @@
     <description>Recent content on Formidlingsprojekt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Tue, 28 Nov 2017 20:44:49 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2017 20:44:49 +0100</lastBuildDate>
     
 	<atom:link href="https://josefine1409.github.io/AstroFysiskHistorie/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Fejlmelding</title>
+      <title>Tiden før Big Bang</title>
       <link>https://josefine1409.github.io/AstroFysiskHistorie/post/fejlmelding/</link>
-      <pubDate>Tue, 28 Nov 2017 20:44:49 +0100</pubDate>
+      <pubDate>Thu, 30 Nov 2017 20:44:49 +0100</pubDate>
       
       <guid>https://josefine1409.github.io/AstroFysiskHistorie/post/fejlmelding/</guid>
-      <description>404 Tiden før Big Bang eksisterer ikke. Klik her for at gå tilbage til tidslinjen, hvor De kan fortsætte med at undersøge universets udvikling fra Big Bang til fremtiden.</description>
+      <description>Tiden før Big Bang eksisterer ikke. Klik her for at gå tilbage til tidslinjen, hvor De kan fortsætte med at undersøge universets udvikling fra Big Bang til fremtiden.</description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://josefine1409.github.io/AstroFysiskHistorie/post/test/</link>
+      <title>Big Bang</title>
+      <link>https://josefine1409.github.io/AstroFysiskHistorie/post/bigbang/</link>
       <pubDate>Tue, 28 Nov 2017 20:44:49 +0100</pubDate>
       
-      <guid>https://josefine1409.github.io/AstroFysiskHistorie/post/test/</guid>
-      <description>Hej alle sammen, dette er en meget meget flot test. Dette er noget videnskabelig tekst
-$$ f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi $$</description>
+      <guid>https://josefine1409.github.io/AstroFysiskHistorie/post/bigbang/</guid>
+      <description>Man regner med at Universets er omkring 13,8 mia. år gammelt. Som vist på tidslinjen har man rimelig sikker viden om Universet selv under ét sekund efter Big Bang, hvor det første stof dannes. Det tidligste tidspunkt man kan ekstrapolere tilbage til og stadig få meningsfulde resultater, er, da Universet var $10^{-44} sekunder gammelt1. Prøver man at gå længere tilbage end det, bryder de grundlæggende teorier, den generelle relativitetsteori og kvantemekanikken, sammen.</description>
     </item>
     
     <item>
-      <title>Test2</title>
-      <link>https://josefine1409.github.io/AstroFysiskHistorie/post/test2/</link>
+      <title>Big Bang kernesyntese</title>
+      <link>https://josefine1409.github.io/AstroFysiskHistorie/post/kerne/</link>
       <pubDate>Tue, 28 Nov 2017 20:44:49 +0100</pubDate>
       
-      <guid>https://josefine1409.github.io/AstroFysiskHistorie/post/test2/</guid>
-      <description>Hej alle sammen, dette er en meget meget flot test. Dette er noget videnskabelig tekst
-$$ f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi $$</description>
+      <guid>https://josefine1409.github.io/AstroFysiskHistorie/post/kerne/</guid>
+      <description>Inden dette tidspunkt eksisterede stabile kernepartikler, men der kunne endnu ikke dannes stabile atomkerner. Dette skyldes, at fotoner med høj nok energi kan slå atomkerner i stykker. Der kunne derfor først dannes stabile atomkerner, da Universet var kølet ned til en bestemt temperatur (se faktaboks nederst på siden om sammenhæng mellem stråling og temperatur). Da Universet var ca. 2 minutter gammelt kunne protoner og neutroner bindes sammen uden at blive slået i stykker med det samme.</description>
+    </item>
+    
+    <item>
+      <title>Uddybning af Big Bang kernesyntese</title>
+      <link>https://josefine1409.github.io/AstroFysiskHistorie/uddybninger/kerne/</link>
+      <pubDate>Tue, 28 Nov 2017 20:44:49 +0100</pubDate>
+      
+      <guid>https://josefine1409.github.io/AstroFysiskHistorie/uddybninger/kerne/</guid>
+      <description>Fotoner kan slå atomkerner i stykker, hvis de har en energi højere end atomets bindingsenergi. Et atom vejer mindre end summen af masserne af dens bestanddele. Denne forskel kaldes atomets massedefekt. Bindingsenergien kan findes ved brug af Einsteins berømte masse-energi-ækvivalensprincip: 
+Big Bang kernesyntesen kunne altså først begynde, efter fotonernes energi var faldet til under bindingsenergien for hydrogen-2 (deuterium). Deuterium dannes i denne proces: 
+Efter deuterium er dannet, kan hydrogen-3 (tritium) og helium-3 og -4 dannes i en række forskellige processer:</description>
+    </item>
+    
+    <item>
+      <title>Dannelse af stof og antistof</title>
+      <link>https://josefine1409.github.io/AstroFysiskHistorie/post/stoff/</link>
+      <pubDate>Mon, 27 Nov 2017 20:44:49 +0100</pubDate>
+      
+      <guid>https://josefine1409.github.io/AstroFysiskHistorie/post/stoff/</guid>
+      <description>Det er beregnet, at da Universet var en milliontedel af et sekund gammelt (10-6 s), var det fyldt med højenergi fotoner med en temperatur på 20 billioner Kelvin (20 x 1012 K). Densiteten af strålingen var desuden meget høj; mere end tusind gange så stor som densiteten af en atomkerne (se faktaboks om densitet af stråling). Hvis fotoner har høj nok energi, kan to omdannes til et partikelpar: En partikel af almindeligt stof og en partikel af antistof.</description>
+    </item>
+    
+    <item>
+      <title>Inflation</title>
+      <link>https://josefine1409.github.io/AstroFysiskHistorie/post/inflation/</link>
+      <pubDate>Sun, 26 Nov 2017 20:44:49 +0100</pubDate>
+      
+      <guid>https://josefine1409.github.io/AstroFysiskHistorie/post/inflation/</guid>
+      <description>Umiddelbart efter Big Bang indtrådte en periode af Universets historie, som kaldes inflation. I denne periode udvidede Universet sig så meget, at det efter inflation var mindst 1043 gange så stort1, som det var før. Hele inflationsperioden tog kun en forsvindende lille brøkdel af et sekund, hvilket får hypotesen til intuitivt at forekomme som det rene humbug. Men fantastisk nok viser det sig, at inflationsmodellen er i stand til præcist at forudsige og forklare adskillige af de fysiske fænomener, vi kan observere i dag.</description>
+    </item>
+    
+    <item>
+      <title>Rekombination</title>
+      <link>https://josefine1409.github.io/AstroFysiskHistorie/post/rekombination/</link>
+      <pubDate>Sat, 25 Nov 2017 20:44:49 +0100</pubDate>
+      
+      <guid>https://josefine1409.github.io/AstroFysiskHistorie/post/rekombination/</guid>
+      <description>Efter ca. 380.000 år er temperaturen så lav, at elektroner og atomkerner kan gå sammen og danne atomer. Dette kaldes med et fint ord rekombination. Rekombinationen ledte ligeledes til den kosmiske mikrobølgebaggrundsstråling. Læs mere ved at klikke på billedet til højre.
+Indtil dette tidspunkt bestod universet af et plasma; en suppe af frie elektroner, lette atomkerner og fotoner. Før de ca. 380.000 år1 var universet så tæt, at fotonerne nærmest ingen veje kom, uden at de blev afbøjet af en elektron.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://josefine1409.github.io/AstroFysiskHistorie/post/denm%C3%B8rketid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://josefine1409.github.io/AstroFysiskHistorie/post/denm%C3%B8rketid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://josefine1409.github.io/AstroFysiskHistorie/post/m%C3%A6lkevejen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://josefine1409.github.io/AstroFysiskHistorie/post/m%C3%A6lkevejen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://josefine1409.github.io/AstroFysiskHistorie/post/stjerner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://josefine1409.github.io/AstroFysiskHistorie/post/stjerner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://josefine1409.github.io/AstroFysiskHistorie/post/stoffdom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://josefine1409.github.io/AstroFysiskHistorie/post/stoffdom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://josefine1409.github.io/AstroFysiskHistorie/post/tidenf%C3%B8r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://josefine1409.github.io/AstroFysiskHistorie/post/tidenf%C3%B8r/</guid>
+      <description></description>
     </item>
     
   </channel>

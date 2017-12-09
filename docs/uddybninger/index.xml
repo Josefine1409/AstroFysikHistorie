@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uddybningers on Formidlingsprojekt</title>
+    <link>https://josefine1409.github.io/AstroFysiskHistorie/uddybninger/</link>
+    <description>Recent content in Uddybningers on Formidlingsprojekt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Tue, 28 Nov 2017 20:44:49 +0100</lastBuildDate>
+    
+	<atom:link href="https://josefine1409.github.io/AstroFysiskHistorie/uddybninger/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Uddybning af Big Bang kernesyntese</title>
+      <link>https://josefine1409.github.io/AstroFysiskHistorie/uddybninger/kerne/</link>
+      <pubDate>Tue, 28 Nov 2017 20:44:49 +0100</pubDate>
+      
+      <guid>https://josefine1409.github.io/AstroFysiskHistorie/uddybninger/kerne/</guid>
+      <description>Fotoner kan slå atomkerner i stykker, hvis de har en energi højere end atomets bindingsenergi. Et atom vejer mindre end summen af masserne af dens bestanddele. Denne forskel kaldes atomets massedefekt. Bindingsenergien kan findes ved brug af Einsteins berømte masse-energi-ækvivalensprincip: 
+Big Bang kernesyntesen kunne altså først begynde, efter fotonernes energi var faldet til under bindingsenergien for hydrogen-2 (deuterium). Deuterium dannes i denne proces: 
+Efter deuterium er dannet, kan hydrogen-3 (tritium) og helium-3 og -4 dannes i en række forskellige processer:</description>
+    </item>
+    
+  </channel>
+</rss>
