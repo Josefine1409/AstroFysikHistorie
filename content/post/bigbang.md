@@ -8,7 +8,7 @@ subtitle: "0 sec"
 draft: false
 ---
 <p>
-    Man regner med at Universets er omkring 13,8 mia. år gammelt. Som vist på tidslinjen har man rimelig sikker viden om Universet selv under ét sekund efter Big Bang, hvor det første stof dannes. Det tidligste tidspunkt man kan ekstrapolere tilbage til og stadig få meningsfulde resultater, er, da Universet var $10^{-44} sekunder gammelt<sup>1<s/sup>. Prøver man at gå længere tilbage end det, bryder de grundlæggende teorier, den generelle relativitetsteori og kvantemekanikken, sammen. Dette tidspunkt er altså en slags nedre grænse, og derfor ved forskerne ingenting om, hvad der skete til tidspunktet 0. Selv om Big Bang teorien ikke giver svar på alt, er der stadig mange gode grunde til at have tiltro til den. Her er to observationer, man anser som noget af det bedste belæg for Big Bang teorien:
+    Man regner med at Universets er omkring 13,8 mia. år gammelt. Som vist på tidslinjen har man rimelig sikker viden om Universet selv under ét sekund efter Big Bang, hvor det første stof dannes. Det tidligste tidspunkt man kan ekstrapolere tilbage til og stadig få meningsfulde resultater, er, da Universet var $10^{-44} sekunder gammelt<sup>1</sup>. Prøver man at gå længere tilbage end det, bryder de grundlæggende teorier, den generelle relativitetsteori og kvantemekanikken, sammen. Dette tidspunkt er altså en slags nedre grænse, og derfor ved forskerne ingenting om, hvad der skete til tidspunktet 0. Selv om Big Bang teorien ikke giver svar på alt, er der stadig mange gode grunde til at have tiltro til den. Her er to observationer, man anser som noget af det bedste belæg for Big Bang teorien:
 </p>
 <p style="text-indent: 50px">
     Universets udvidelse
