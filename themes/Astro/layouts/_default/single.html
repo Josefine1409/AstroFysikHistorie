@@ -1,0 +1,7 @@
+{{ partial "header.html" . }}
+<div class="post-content">
+ <h1><span class="title">{{ if not (isset .Params "title2") }}{{ .Title }}{{else}} {{.Params.title2}}{{end}}</span></h1>
+<hr style="width:100%; height:2px; background-color: #cce1ec; border:none;" id="tidslinje" />
+{{ .Content }}
+</div>
+{{ partial "footer.html" . }}
