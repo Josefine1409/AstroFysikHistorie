@@ -2,15 +2,9 @@
 title: "Rekombination"
 date: 2017-11-25T20:44:49+01:00
 subtitle: "380.000 år"
-description: "On May 19, 1919, Mustafa Kemal Pasha landed in the Black Sea port of Samsun to startthe War of Independence. In defiance of the Sultan's government, he rallied a liberationarmy in Anatolia and convened the Congress of Erzurum and Sivas which established thebasis for the new national effort under his leadership."
+description: "Efter ca. 380.000 år er temperaturen så lav, at elektroner og atomkerner kan gå sammen og danne atomer. Dette kaldes med et fint ord rekombination. Rekombinationen ledte ligeledes til den kosmiske mikrobølgebaggrundsstråling. "
 draft: false
 ---
-
-Efter ca. 380.000 år er temperaturen så lav, at elektroner og atomkerner kan gå sammen og danne atomer. Dette kaldes med et fint ord rekombination. Rekombinationen ledte ligeledes til den kosmiske mikrobølgebaggrundsstråling. Læs mere ved at klikke på billedet til højre. 
-
-
-
-
 Indtil dette tidspunkt bestod universet af et plasma; en suppe af frie elektroner, lette atomkerner og fotoner. Før de ca. 380.000 år<sup>1</sup> var universet så tæt, at fotonerne nærmest ingen veje kom, uden at de blev afbøjet af en elektron. Men omkring dette tidspunkt havde universet udvidet sig så meget, at fotoner rent faktisk kunne rejse langt uden at risikere et sammenstød. Tætheden var simpelthen blevet mindre, og som et resultat af det blev universet mere transparent. Pga. universets udvidelse falder temperaturen også. På det her tidspunkt (igen ca. 380.000 år efter Big Bang) er temperaturen på ca. 3000 K, og det er tilpas lavt til at atomkerner er i stand til at holde på elektroner, og på den måde danne atomer.
 
 <div>

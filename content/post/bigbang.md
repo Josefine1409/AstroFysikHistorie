@@ -2,8 +2,7 @@
 title: "Big Bang"
 date: 2017-11-28T20:44:49+01:00
 img: "https://upload.wikimedia.org/wikipedia/commons/2/20/Ataturk-1930-amongpublic.jpg"
-description: "Alting skabtes i en tilstand med høj energi og tæthed, som man kalder Big Bang. Selve tiden startede også her, og spørgsmålet ”hvad skete der før Big Bang?” giver derfor ikke umiddelbart nogen mening. Man ved i dag ikke meget om hvad der foregik til tiden 0, samt hvorfor det startede.
-n."
+description: "Alting skabtes i en tilstand med høj energi og tæthed, som man kalder Big Bang. Selve tiden startede også her, og spørgsmålet ”hvad skete der før Big Bang?” giver derfor ikke umiddelbart nogen mening. Man ved i dag ikke meget om hvad der foregik til tiden 0, samt hvorfor det startede."
 subtitle: "0 sec"
 draft: false
 ---

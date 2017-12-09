@@ -1,9 +1,11 @@
-
-
-Den mørke tid - tiden før de første stjerner
-Den mørke tid eller ”The Dark Ages”, som man kalder det på engelsk, var tiden fra rekombinationen og frem til dannelsen af de første stjerner over 100 mio. år senere. Læs mere om perioden i det følgende.
-
-Artikel:
+---
+title: "Den mørke tid"
+date: 2017-11-28T20:44:49+01:00
+img: "https://upload.wikimedia.org/wikipedia/commons/2/20/Ataturk-1930-amongpublic.jpg"
+description: "Den mørke tid eller ”The Dark Ages”, som man kalder det på engelsk, var tiden fra rekombinationen og frem til dannelsen af de første stjerner over 100 mio. år senere. Læs mere om perioden i det følgende."
+subtitle: "0 sec"
+draft: false
+---
 Som antydet var den mørke tid en lang periode, der startede da universet var ca. 380 tusinde år gammelt og først endte ca. 400 mio. år efter Big Bang<sup>1</sup>. Helt til at starte med lyste universet faktisk op; rekombinationen gav plads til de fotoner (lys), der før var holdt tilbage pga. sammenstød med elektroner. Som det ligger i periodens navn, varede de lyse dage dog ikke længe. Universets udvidede sig stadig, temperaturen faldt over den samlede periode fra ca. 3000 K ned til 60 K, og strålingen blev rødforskudt så meget, at det ikke længere var synligt med det blotte øje; det var blevet til infrarød stråling. Med det blev universet mørkt, og det lyste først op igen da de første stjerner dannes flere 100 mio. år senere. 
 
 <img src="/static/img/Billede1.png" style="width: 40%"></img>

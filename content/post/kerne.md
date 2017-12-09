@@ -11,7 +11,7 @@ draft: false
     <br>
     Hvor tunge grundstoffer, der kunne dannes, blev dog begrænset af en mangel på stabile atomkerne med atomvægte 5 og 8. Når atomkerner med disse vægte dannes, vil de blot henfalde til en kerne med lavere atomvægt. Sandsynligheden for at hoppe over et sådant hul i rækken af stabile kerner er ikke ret stor. Da kernesyntesen ikke varede ret længe, resulterer dette i, at der kun dannedes en lille smule lithium med atomvægt over 5, men ingen kerner med en atomvægt over 8. Man har beregnet, at efter kernesyntesen stoppede, da Universet var ca. 30 minutter gammelt, var der dannet omkring 75 % hydrogen og 25 % helium. At dette stemmer overens med observationer man foretager i dag understøtter Big Bang teorien.<sup>1</sup>
     <br><br>
-    Der sættes lidt mere fysik på processerne i kernesyntesen her: <a href="{{< ref "uddybninger/kerne.md" >}}">(Uddybende afsnit)</a>, og en uddybning af sammenhængen mellem stråling og temperatur kan findes her: (Sortlegemestråling).
+    Der sættes lidt mere fysik på processerne i kernesyntesen her: <a href="{{< ref "uddybninger/kerne.md" >}}">Uddybende afsnit</a>, og en uddybning af sammenhængen mellem stråling og temperatur kan findes her: (Sortlegemestråling).
 </p>
 <br>
 <div>
